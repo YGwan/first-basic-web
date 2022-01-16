@@ -16,3 +16,4 @@ github pages를 활용해서 만들기
 
 
 #### 나는 여기서 github에서 제공하는 pages를 이용했다.(github 웹 호스팅 서비스)
+* https://ygwan.github.io/first-basic-web/index.html
